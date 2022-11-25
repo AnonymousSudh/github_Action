@@ -1,4 +1,5 @@
 name: sudhashu kumar
+run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
   print-hello-world:
