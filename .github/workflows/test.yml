@@ -1,5 +1,5 @@
-name:sudhashu kumar
-on:[push]
+name: sudhashu kumar
+on: [push]
 jobs:
   print-hello-world:
     steps:
