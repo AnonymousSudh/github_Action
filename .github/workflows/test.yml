@@ -1,2 +1,7 @@
 name:sudhashu kumar
-age:20
+on:[push]
+jobs:
+  print-hello-world:
+    steps:
+      -run: echo "hello world"
+
